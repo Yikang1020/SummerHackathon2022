@@ -1,3 +1,5 @@
 # COSN Summer Hackathon 2022
 
-## [projects](/projects.md)
+## EEG power analysis
+
+## members：Feng Jianfeng, Hu Yue, Liu Yikang, Zhou Chenghao, Zhu Yue
